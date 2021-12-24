@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/sahil-parashar-5216a41b3" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/sahil2381" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sahil-parashar-5216a41b3" height="30" width="40" /></a>
     <a href="https://instagram.com/_sahil.sharma1" target="blank"><img align="center"
