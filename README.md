@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Parashar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <!-- - 🌱 I’m currently learning Java . -->
 
