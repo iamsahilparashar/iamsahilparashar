@@ -97,8 +97,8 @@ const sahil = {
 | Platform | Profile | Focus |
 |:--------:|:-------:|:-----:|
 | 🟡 **LeetCode** | [sahil2381](https://leetcode.com/u/sahil2381) | DSA · Problem Solving |
-| 🟢 **GeeksforGeeks** | [2381](https://www.geeksforgeeks.org/user/sahil2381) | Algorithms · Interview Prep |
-| 🟤 **CodeChef** | [sahil238](https://www.codechef.com/users/sahil2381) | Competitive Coding |
+| 🟢 **GeeksforGeeks** | [sahil2381](https://www.geeksforgeeks.org/user/sahil2381) | Algorithms · Interview Prep |
+| 🟤 **CodeChef** | [sahil2381](https://www.codechef.com/users/sahil2381) | Competitive Coding |
 | 🟩 **HackerRank** | [sahilparashar232](https://www.hackerrank.com/sahilparashar232) | Skill Certification |
 
 </div>
