@@ -16,7 +16,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil2381)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sahil.sharma1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahil2381)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/2381)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil238)
@@ -34,7 +33,7 @@
 ```javascript
 const sahil = {
   name:         "Sahil Parashar",
-  location:     "India 🇮🇳",
+  location:     "Bangalore,India 🇮🇳",
   role:         "Full Stack Developer",
   passion:      "Crafting seamless, scalable digital experiences",
   currentFocus: ["System Design", "Spring Boot Microservices", "Open Source"],
