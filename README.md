@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil2381)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahil2381)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sahil2381)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil238)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil2381)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahilparashar232)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilparashar2381@gmail.com)
 
@@ -97,8 +97,8 @@ const sahil = {
 | Platform | Profile | Focus |
 |:--------:|:-------:|:-----:|
 | 🟡 **LeetCode** | [sahil2381](https://leetcode.com/u/sahil2381) | DSA · Problem Solving |
-| 🟢 **GeeksforGeeks** | [2381](https://www.geeksforgeeks.org/user/2381) | Algorithms · Interview Prep |
-| 🟤 **CodeChef** | [sahil238](https://www.codechef.com/users/sahil238) | Competitive Coding |
+| 🟢 **GeeksforGeeks** | [2381](https://www.geeksforgeeks.org/user/sahil2381) | Algorithms · Interview Prep |
+| 🟤 **CodeChef** | [sahil238](https://www.codechef.com/users/sahil2381) | Competitive Coding |
 | 🟩 **HackerRank** | [sahilparashar232](https://www.hackerrank.com/sahilparashar232) | Skill Certification |
 
 </div>
